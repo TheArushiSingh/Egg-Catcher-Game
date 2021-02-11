@@ -8,15 +8,15 @@ Left arrow key : to move catcher left
 
 Right arrow key : to move catcher right
 
- Built With
-### - Python
-### - tkinter
-### - itertools
-### - random
+ # Built With
+ - Python
+ - tkinter
+ - itertools
+ - random
 
- Getting Started
-### - Software Requirements: Python
-### - Clone the repo to your local device
-### - Run the .exe file
+ # Getting Started
+ - Software Requirements: Python
+ - Clone the repo to your local device
+ - Run the .exe file
 
-< To create your own download python and getstarted.
+ To create your own download python and getstarted.
