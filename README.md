@@ -1,22 +1,30 @@
-# Egg-Catcher-Game-1
+# Egg Catcher Game
 
-This is a Egg catcher Game. I designed and developed it. I do represent it with name "Eggy-Bowl". It is a 3-D graphical game using Multiple python libraries.
 
-This Game can be played using arrow keys.
+This game will test your concentration and the speed of your reflexes. Don't crack under pressure—just catch as many eggs as you can to get a high score. Challenge your friends to see who is the champion egg catcher!
 
-Left arrow key : to move catcher left
 
-Right arrow key : to move catcher right
+![](images/catch%20eggs.JPG)
 
- # Built With
- - Python
- - tkinter
- - itertools
- - random
 
- # Getting Started
- - Software Requirements: Python
- - Clone the repo to your local device
- - Run the .exe file
+# How to play?
+1. Move the catcher along the bottom of the screen to catch each egg before it touches the ground.
+2.  When you scoop up an egg you score points, but if you drop an egg you lose a life.
+3.   Beware: the more eggs you catch, the more frequently new eggs appear at the top of the screen and the faster they fall. 
+4.   Lose all three lives and the game ends. 
 
- To create your own download python and getstarted.
+## Starting the game with Score = 0 and Lives = 3
+
+![](images/start.JPG)
+
+## Eggs starts falling from the top 
+
+![](images/egg%20falling.JPG)
+
+## Catch the eggs using arrow keys
+
+![](images/catch%20eggs.JPG)
+
+## Game ends and final score is displayed 
+
+![](images/game%20ends.JPG)
